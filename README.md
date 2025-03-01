@@ -1,2 +1,3 @@
-# Python-dsa
-Repo of all python programs done
+# Python-DSA
+
+Python programs which are done daily on leetcode!
